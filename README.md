@@ -15,4 +15,4 @@ or in a different semester, without the express approval of all instructors is s
 I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for
 the project and course.
 
-Betting agencies have long existed in the sporting world and are often seen as a form of gambling dictated by team loyalty. We dive deeper into potential factors that influence betting odds. Our analysis leads us to the conclusion that a Home Team Advantage depresses Home Betting Odds across all leagues and that individual star players may also have an effect, although a concrete conclusion is more difficult due to confounding variables across leagues.
+Project Description: Betting agencies have long existed in the sporting world and are often seen as a form of gambling dictated by team loyalty. We dive deeper into potential factors that influence betting odds. Our analysis leads us to the conclusion that a Home Team Advantage depresses Home Betting Odds across all leagues and that individual star players may also have an effect, although a concrete conclusion is more difficult due to confounding variables across leagues.
